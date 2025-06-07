@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347806732679",
+    "project_id": "nayapp-13efa",
+    "storage_bucket": "nayapp-13efa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347806732679:android:3ae238c09c2096bdccc322",
+        "android_client_info": {
+          "package_name": "com.onada.nayapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsJ7zuSbk5UF438TyFYSv_kOxkf5mDWaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
